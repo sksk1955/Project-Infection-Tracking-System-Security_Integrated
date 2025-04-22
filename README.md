@@ -1,4 +1,4 @@
-# Blockchain-Based Infection Tracking System
+# Blockchain-Based Infection Value System
 
 A privacy-preserving infection tracking system using blockchain technology that implements three main algorithms for secure and private tracking of infection statuses.
 
