@@ -56,7 +56,7 @@ This system leverages blockchain technology to create a decentralized, privacy-p
 #### Noise Removal:
 - From the final IVA extract noise status: IvS = IvS' - N
 
-## Project Structure
+## Project Structure of the Network Ethereum
 ```
 infection-tracking-demo/
 ├── contracts/
