@@ -77,10 +77,12 @@ infection-tracking-demo/
 ```
 
 ## Prerequisites
+- Ethereum Blockchain (Local or Testnet)
 - Node.js v14+ 
 - npm v6+
-- Hardhat
+- Hardhat (Ethereum Development Environment)
 - MetaMask or another Web3 wallet
+- Ethereum Account with test ETH (for local testing)
 
 ## Installation
 
@@ -126,14 +128,6 @@ node demo.js
 5. Update Infection Status (Option 5)
 6. Calculate IVS Score (Option 6)
 
-## Security Features
-
-- RSA key pairs for all entities
-- Digital signatures for data verification
-- Privacy-preserving noise addition
-- Homomorphic encryption simulation
-- Consensus-based validation
-- Secure interaction recording
 
 ## Dependencies
 
